@@ -1,0 +1,2 @@
+﻿  MyForm.cpp
+c:\users\user\documents\visual studio 2015\projects\testtt\testtt\MyForm.h(79): error C3867: 'System::Windows::Forms::Form::Close': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.

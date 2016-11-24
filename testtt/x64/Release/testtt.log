@@ -1,0 +1,30 @@
+﻿  MyForm.cpp
+c:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\user\documents\visual studio 2015\projects\testtt\testtt\MyForm.h(441): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2015\projects\testtt\testtt\MyForm.h(463): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\documents\visual studio 2015\projects\testtt\testtt\MyForm.h(399): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: 'localtime' 선언을 참조하십시오.
+c:\users\user\documents\visual studio 2015\projects\testtt\testtt\MyForm.h(501): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: 'localtime' 선언을 참조하십시오.
+c:\opencv\build\include\opencv2\core\cvstd.hpp(599): warning C4793: 'cv::String::String': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: 'cv::Mat::Mat': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: 'cv::Mat::release': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: 'cv::SparseMat::addref': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: 'cv::UMat::addref': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+c:\opencv\build\include\opencv2\core\fast_math.hpp(96): warning C4793: '`anonymous namespace'::cvRound': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+c:\opencv\build\include\opencv2\core\fast_math.hpp(97): warning C4793: '`anonymous namespace'::cvRound': 함수가 네이티브로 컴파일되었습니다.
+  	관리 코드에서 지원되지 않는 내장 함수가 있습니다.
+  testtt.vcxproj -> c:\users\user\documents\visual studio 2015\Projects\testtt\x64\Release\testtt.exe
+  testtt.vcxproj -> c:\users\user\documents\visual studio 2015\Projects\testtt\x64\Release\testtt.pdb (Full PDB)
